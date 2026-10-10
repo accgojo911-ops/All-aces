@@ -54,5 +54,30 @@
     },
     "saved_at": "2026-10-10T19:28:53.107383",
     "credits": "@RFG_GAMER"
+  },
+  {
+    "status": true,
+    "account_id": 14489750622,
+    "nickname": "GOJOx_VZWZFY",
+    "region": "BD",
+    "level": 8,
+    "exp": 4018,
+    "likes": 2,
+    "open_id": "96a2be03e6863e2e8481b084282b32dc",
+    "access_token": "cf0bdff469593c88ab1cb3f4bacc37928cc3130026e0f889beb732e4fc34b135",
+    "platform": "4",
+    "platform_name": "Facebook",
+    "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDQ4OTc1MDYyMiwibmlja25hbWUiOiJkaXAvZDBGbk5UazFZaUkvIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6Ijk2YTJiZTAzZTY4NjNlMmU4NDgxYjA4NDI4MmIzMmRjIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6NCwiY2xpZW50X3ZlcnNpb24iOiIxLjEzMi45IiwiY2xpZW50X3ZlcnNpb25fY29kZSI6IjIwMTkxMjEyMjkiLCJlbXVsYXRvcl9zY29yZSI6MCwiaXNfZW11bGF0b3IiOmZhbHNlLCJjb3VudHJ5X2NvZGUiOiJCRCIsImV4dGVybmFsX3VpZCI6NDQxOTQyOTI4NywicmVnX2F2YXRhciI6MTAyMDAwMDA3LCJzb3VyY2UiOjAsImxvY2tfcmVnaW9uX3RpbWUiOjE3Njg5MzAzMjcsImNsaWVudF90eXBlIjowLCJzaWduYXR1cmVfbWQ1IjoiNzQyOGIyNTNkZWZjMTY0MDE4YzYwNGExZWJiZmViZGYiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiJhbmRyb2lkIiwicmVsZWFzZV92ZXJzaW9uIjoiT0I1NSIsImV4cCI6MTc5MTY3MzgwMX0.1z75pwRhxcNl-pYYtYk7JTKV2oE1eYozBkMJR6VCNxc",
+    "token_expiry": 1791673801,
+    "external_uid": 4419429287,
+    "jwt_payload": {
+      "account_id": 14489750622,
+      "region": "BD",
+      "external_type": 4,
+      "plat_id": 4,
+      "release_version": "OB55",
+      "exp": 1791673801
+    },
+    "credits": "@RFG_GAMER"
   }
 ]
